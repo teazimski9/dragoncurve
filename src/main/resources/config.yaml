@@ -1,0 +1,11 @@
+canvas:
+  width: "dynamic"
+  height: "dynamic"
+frame:
+  width: "dynamic"
+  height: "dynamic"
+  title: "Dragon Curve"
+render:
+  color_scheme: "Rainbow"
+  side_length: 3
+  sleep_time_ms: 2
